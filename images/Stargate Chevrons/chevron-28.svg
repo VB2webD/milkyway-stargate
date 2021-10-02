@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <g fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2.5">
+   <path d="m4.4444 35.302l9.9048-0.8889-0.6349 9.9048-9.2698-9.0159z"/>
+   <path d="m18.286 30.476l5.8413-5.9683"/>
+   <path d="m34.413 36.19l-2.7937-16.635-15.873-8.8889"/>
+   <path d="m31.492 18.921l7.873-13.206"/>
+  </g>
+  <path d="m15.746 10.667l-0.6349-3.6825-3.3016 4.5714 3.9365-0.8889z"/>
+  <path d="m39.238 6.0952l-1.1429-3.5556 4.8254 2.9206-3.6825 0.6349z"/>
+  <path d="m34.54 36.19l-2.4127 2.7937 5.4603-0.8889-3.0476-1.9048z"/>
+ </g>
+</svg>

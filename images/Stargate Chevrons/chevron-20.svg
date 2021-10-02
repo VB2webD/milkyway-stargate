@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path d="m34.038 6.5703l0.0913 11.954-10.586 5.5665 0.0913 19.528" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2.5"/>
+  <path d="m34.038 7.2091l-2.7376-2.7376 5.4753-0.0913-2.7376 2.8289z"/>
+  <path d="m23.635 43.164l2.4639 2.2814h-5.1103l2.6464-2.2814z"/>
+ </g>
+</svg>
